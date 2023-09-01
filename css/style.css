@@ -27,24 +27,13 @@ h1{
 .header {
   display: flex;
   align-items: center; 
-  justify-content: space-between;
+  justify-content:space-between;
 }
 
 .social-icon {
   border: .2rem solid #f3b8da; 
   border-radius: 50%; 
   padding: .4rem; 
-}
-
-
-
-
-
-
-.header nav ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
 }
 
 .header nav li {
@@ -55,7 +44,7 @@ h1{
 
 #header-logo{
   width: 7rem;
-  padding-bottom: 4rem;
+  padding-bottom: 0;
 }
 #emily-face {
   width: 12rem; /* Set the desired width */
