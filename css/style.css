@@ -13,14 +13,21 @@ body{
   background-size: cover; 
   background-repeat: no-repeat; 
   color: white;
+  flex-wrap: wrap;
 }
 
 h1{
   margin:1.25rem;
   display:flex;
-  font-size: 4rem;
-
+  justify-content: center;
+  font-style:oblique;
+  font-weight: bolder;
+  font-size: 5rem;
+  padding-bottom: 6rem;
+  color:#f3b8da;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
+
 
 
 /* class selectors */
