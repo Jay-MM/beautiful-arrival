@@ -25,9 +25,9 @@ Even though this page was built only with HTML and CSS, JavaScript can be implem
 
   -  *note: any information sent will not be submitted as the site still requires scripting to make it function*
 
-  [Visit the website !]()
+  [Visit the website !](https://jay-mm.github.io/beautiful-arrival/)
 
-  ![GlowRevive-screenshot](assets/Screenshot-GlowRevive.png))
+  ![GlowRevive-screenshot](assets/Screenshot-GlowRevive.png)
   
    ## [Credits](#table-of-contents)
    
